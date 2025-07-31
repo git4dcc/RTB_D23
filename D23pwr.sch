@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 4 4
 Title "RTB D23 NEM652 Decoder"
-Date "2025-03-17"
+Date "2025-04-20"
 Rev "0"
 Comp "Frank Schumacher"
 Comment1 "Lok Decoder NEM652"
@@ -304,7 +304,7 @@ L Device:R R13
 U 1 1 641AD17A
 P 3650 5150
 F 0 "R13" V 3550 5150 50  0000 C CNN
-F 1 "3.3k" V 3650 5150 50  0000 C CNN
+F 1 "1k" V 3650 5150 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3580 5150 50  0001 C CNN
 F 3 "~" H 3650 5150 50  0001 C CNN
 	1    3650 5150
