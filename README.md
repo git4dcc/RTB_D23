@@ -91,7 +91,10 @@ Example: **D23F0001**.hex
 [Firmware files](firmware)
 
 ## UPDI
-The fuse settings as well as the P-code (E15Pxxxx.hex) has to be installed by using UPDI.<br>
+The fuse settings as well as the P-code (D23Pxxxx.hex) has to be installed by using UPDI.<br>
+Connecting the decoder via its track pins to a 5V(DC) power supply will boot its CPU. This way, its easy to program the fuses and flash.
+
+<img src=supplemental/images/D23_updi.jpg width=800>
 
 <details>
 <summary>Details</summary>
