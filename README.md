@@ -8,13 +8,13 @@ The D23 decoder is a double sided mobile decoder with 8-pol NEM 652 connector. T
 <details>
 <summary>See also</summary>
 
-- [RTB_D12 - custom](https://github.com/git4dcc/RTB_D12) (Fleischmann V100)
-- [RTB_D13 - custom](https://github.com/git4dcc/RTB_D13) (Minitrix coach)
-- [RTB_D15 - custom](https://github.com/git4dcc/RTB_D15) (Minitrix V160)
-- [RTB_D16 - NEM651](https://github.com/git4dcc/RTB_D16)
-- [RTB_D20 - NEM651](https://github.com/git4dcc/RTB_D20)
-- [RTB_D21 - Next18](https://github.com/git4dcc/RTB_D21)
-- [RTB_D22 - Plux16](https://github.com/git4dcc/RTB_D22)
+- [RTB_D12 - custom](/../../../../git4dcc/RTB_D12) (Fleischmann V100)
+- [RTB_D13 - custom](/../../../../git4dcc/RTB_D13) (Minitrix coach)
+- [RTB_D15 - custom](/../../../../git4dcc/RTB_D15) (Minitrix V160)
+- [RTB_D16 - NEM651](/../../../../git4dcc/RTB_D16)
+- [RTB_D20 - NEM651](/../../../../git4dcc/RTB_D20)
+- [RTB_D21 - Next18](/../../../../git4dcc/RTB_D21)
+- [RTB_D22 - Plux16](/../../../../git4dcc/RTB_D22)
 
 
 </details>
@@ -73,7 +73,7 @@ The current PCB layout uses SMD footprints with 0.5mm pitch and 0402 parts. Refl
 <summary>Dependency</summary>
 <br>
 
-:yellow_circle: Requires my Kicad project library [RTB_SamacSys](https://github.com/git4dcc/RTB_SamacSys) in the same directory tree.
+:yellow_circle: Requires my Kicad project library [RTB_SamacSys](/../../../../git4dcc/RTB_SamacSys) in the same directory tree.
 
 </details>
 
